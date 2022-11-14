@@ -1,7 +1,9 @@
 # EN 520.655 Project 1
 
-Nisarg A. Shah {nshah82@jhu.edu}
-Yasiru Ranasinghe {dranasi1@jhu.edu}
+Nisarg A. Shah<sup>1</sup> {nshah82@jhu.edu} and
+Yasiru Ranasinghe<sup>1</sup> {dranasi1@jhu.edu}
+
+<sup>1</sup> Johns Hopkins University
 
 ## Prerequisites
 - Python 3.6+
